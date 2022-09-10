@@ -1,0 +1,50 @@
+body {
+    background-color: midnightblue; 
+}
+
+h1 {
+    width: 100%;
+    color: whitesmoke;
+    font-size: 55px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+.table {
+    color: whitesmoke;
+    background-color: rgba(0, 0, 0, 0.699);
+    margin: 0 auto;
+}
+
+.cap {
+    font-size: 30px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.table-header {
+    color: rgb(171, 13, 234);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid whitesmoke;
+}
+
+.table-body {
+    color: rgb(171, 13, 234);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid whitesmoke;
+    text-align: center;
+}
+
+.body1 {
+    color: rgb(171, 13, 234);
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: 1px solid whitesmoke;
+}
+
+.code {
+    font-family: monospace;
+    font-size: large;
+    color: rgb(171, 13, 234);
+}
